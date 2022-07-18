@@ -90,3 +90,13 @@ paypal Payment Gatway used
 ![Uploadin![mobile -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488969-dd2c9c8b-9239-452c-ba81-4a1957b66743.png)
 g topwear -filter product on the basis of brands and price .png…]()
 ![bootomwear -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488983-369b5ef5-a91b-4237-b98e-ba7a8ab7244c.png)
+
+
+### profile page 
+### creating prfile filling address and other details 
+![created profile page](https://user-images.githubusercontent.com/70846234/179489612-f18a955d-f596-44a6-9fe1-35542bbec1cf.png)
+
+### we can create more than one profile because we can order product on any address 
+
+![we can create more profile for ordering product according to your address](https://user-images.githubusercontent.com/70846234/179489618-0903e6e0-60b5-43a7-b39f-79cda925f204.png)
+
