@@ -26,8 +26,11 @@ paypal Payment Gatway used
 
 #### In that Registration page success and  client side validation
 
-- registartion success
+1 registartion success
 ![registartion success](https://user-images.githubusercontent.com/70846234/179485510-b950e033-2ac4-40d0-9ded-c9df0b5d24b1.png)
-- client side validation
+
+2 client side validation
 ![client side validation ](https://user-images.githubusercontent.com/70846234/179485642-9daae934-6b39-42ef-ba97-c597ace74027.png)
+
+
 
