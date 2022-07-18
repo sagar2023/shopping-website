@@ -138,3 +138,47 @@ g topwear -filter product on the basis of brands and price .png…]()
 ![payment step2](https://user-images.githubusercontent.com/70846234/179490956-92836da9-9165-434b-9882-6936a7274bf4.png)
 - step3
 ![payment step3](https://user-images.githubusercontent.com/70846234/179490987-ef5b20c3-9b0b-4710-8cdd-e402dbf8acef.png)
+
+# admin site 
+
+### admin can add , delete ,edit particualr product (keep track of all product)
+
+![product](https://user-images.githubusercontent.com/70846234/179494149-ed212f0b-acd3-4f57-b6b5-5583b60fc4d7.png)
+
+### admin keep track of order status
+![keep track of ordered status](https://user-images.githubusercontent.com/70846234/179494230-d705120e-09e4-4a45-bc16-78629887eb47.png)
+
+### admin keep track of  visited customer 
+
+
+![add customer](https://user-images.githubusercontent.com/70846234/179494326-15ecc5ce-9602-4cb0-b9eb-7588e9fbfc04.png)
+
+### admin keep track of register user
+
+![keep track of all user](https://user-images.githubusercontent.com/70846234/179494438-53ec4531-37c3-4e58-aa9c-026ac628f1b2.png)
+
+### admin keep track of user card
+![keep track of user card](https://user-images.githubusercontent.com/70846234/179494499-285b7740-e163-4edf-a4c0-28f5accd1921.png)
+
+
+# database (sqllite3)
+
+#### all products
+
+![new product added, deleted, edited info](https://user-images.githubusercontent.com/70846234/179491806-96a0e924-649e-4342-8f94-68678ded6214.png)
+
+#### ordered product from client status 
+
+![ordere of product from client status](https://user-images.githubusercontent.com/70846234/179492458-8bde95ed-7458-4194-ba5e-a496e8e3cd5d.png)
+
+#### card information of particualr user
+![card information of particualr user ](https://user-images.githubusercontent.com/70846234/179492613-bee05053-fbd5-4972-9d60-164d54a20bfa.png)
+
+#### all register users 
+![register user](https://user-images.githubusercontent.com/70846234/179492989-50091a08-86b4-40ee-aa85-d2ff1e78d3b6.png)
+
+
+### all users ordered something 
+
+![customer ](https://user-images.githubusercontent.com/70846234/179493214-e7c73020-46ad-4acc-a096-48dd51cac939.png)
+
