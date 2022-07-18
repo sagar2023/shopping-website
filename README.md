@@ -72,3 +72,21 @@ paypal Payment Gatway used
 
 ![password change ](https://user-images.githubusercontent.com/70846234/179488222-698d9830-85a1-4c97-8b5d-0c53690eda83.png)
 
+### home page 
+#### scorolling home pages 
+
+![home](https://user-images.githubusercontent.com/70846234/179488715-2efe2f91-a5a7-4d04-a22b-6ecfe5b92ada.png)
+![home page1](https://user-images.githubusercontent.com/70846234/179488734-abd90726-957a-4785-a677-b241a8f851be.png)
+
+![home page2](https://user-images.githubusercontent.com/70846234/179488746-3e853bcc-0b0b-4f67-8b2a-94f4ec60b409.png)
+![homepage3](https://user-images.githubusercontent.com/70846234/179488756-4aa4223d-1296-40b3-a42d-91df2d14dc92.png)
+
+### Added filter property
+
+#### according to brands and price filter the product
+![mobile -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488958-2d1bc4cc-849e-4f57-a8f1-4f2786cfa319.png)
+
+![topwear -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488965-6fb089ea-108a-4573-9b6a-57349f8646a1.png)
+![Uploadin![mobile -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488969-dd2c9c8b-9239-452c-ba81-4a1957b66743.png)
+g topwear -filter product on the basis of brands and price .png…]()
+![bootomwear -filter product on the basis of brands and price ](https://user-images.githubusercontent.com/70846234/179488983-369b5ef5-a91b-4237-b98e-ba7a8ab7244c.png)
