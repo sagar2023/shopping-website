@@ -100,3 +100,41 @@ g topwear -filter product on the basis of brands and price .png…]()
 
 ![we can create more profile for ordering product according to your address](https://user-images.githubusercontent.com/70846234/179489618-0903e6e0-60b5-43a7-b39f-79cda925f204.png)
 
+
+### Cart
+
+#### shopping cart if we have product in cart
+
+
+![shopping cart](https://user-images.githubusercontent.com/70846234/179489853-7504fa8f-8213-47d3-a149-da70d6432633.png)
+
+###  empty cart when we do not any product in cart
+
+![till we never added product in cart or order the product](https://user-images.githubusercontent.com/70846234/179489991-8e05e88f-39d6-4701-94ce-d0a0fa7a3dfb.png)
+
+### order
+
+#### particular product information price , description and other details
+
+![particular product information ](https://user-images.githubusercontent.com/70846234/179490178-f365dd61-71b9-41a5-b836-c20139b56230.png)
+
+#### order summary
+
+![particular order summary](https://user-images.githubusercontent.com/70846234/179490246-9ecaa4e3-00be-451d-a102-1a9382d15728.png)
+
+#### orderd product status 
+#### status are Product Accepted , Delivered, Packed , On The Way or Pending 
+
+![ordere of product status](https://user-images.githubusercontent.com/70846234/179490892-7b797df1-8a1e-4ad8-81d6-937ba31d98bb.png)
+
+## payment Gatway
+
+### paypal payment steps 
+
+- step1 
+![payment from customer](https://user-images.githubusercontent.com/70846234/179490936-a729470e-78d8-4a99-8ea6-b6f2dc96ed7f.png)
+- step 2
+
+![payment step2](https://user-images.githubusercontent.com/70846234/179490956-92836da9-9165-434b-9882-6936a7274bf4.png)
+- step3
+![payment step3](https://user-images.githubusercontent.com/70846234/179490987-ef5b20c3-9b0b-4710-8cdd-e402dbf8acef.png)
